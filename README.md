@@ -1,4 +1,4 @@
--  Hi, I’m @frmerikh
+-  Hi, I’m Farass
 -  I’m currently learning java,JS
 -  reach me on discord Merikh#0001
 
