@@ -1,6 +1,6 @@
--  Hi, I’m Farass
+-  Hi
 -  I’m currently learning java,JS
--  reach me on discord Merikh#0001
+-  reach me on discord Merikh#0132
 -  not many projects, I'm lazy
 <!---
 frmerikh/frmerikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
