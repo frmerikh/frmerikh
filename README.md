@@ -2,7 +2,7 @@
 -  I’m currently learning Rust,C#
 -  sec acc
 -  offset? main.
--  Skills
+  
 
 
 <!---
